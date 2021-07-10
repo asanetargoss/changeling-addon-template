@@ -1,0 +1,9 @@
+Your license here.
+
+Learn more about licenses at https://choosealicense.com/
+
+Here are a few options for the license that can be used:
+
+- "All Rights Reserved. You are permitted use this mod in a modpack without asking permission."
+- GNU Lesser General Public License
+- MIT License
