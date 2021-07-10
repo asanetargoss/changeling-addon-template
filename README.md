@@ -16,7 +16,7 @@ Windows users: If you are using cmd or Powershell as your command line, please u
 - A Forge-compatible IDE is installed
     - Eclipse is recommended
     - You can instead use IntelliJ IDEA if you know what you are doing, however the instructions for developing with IDEA may be incomplete/inaccurate
-- Latest "dev" and "sources" jars of Changeling and DominionLib have been downloaded for this Minecraft version
+- Latest "dev" and "sources" jars of [Changeling](https://github.com/asanetargoss/Changeling/releases) and [DominionLib](https://github.com/asanetargoss/DominionLib/releases) have been downloaded for this Minecraft version
 
 ### Gradle setup
 
