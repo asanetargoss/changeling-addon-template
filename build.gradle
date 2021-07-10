@@ -27,7 +27,6 @@ compileJava {
 }
 
 minecraft {
-    // If you are updating the mod on multiple versions, consider using `git worktree` so you have a dedicated folder for each version branch. That way, you don't have to re-run gradle when switching between versions.
     version = "${mc_version}-${forge_version}" // Forge version
     runDir = "run"
     mappings = snapshot // MCP mapping version
