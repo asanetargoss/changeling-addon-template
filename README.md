@@ -2,7 +2,7 @@
 
 This is a very basic mod that can be used as a base for creating a Changeling add-on. It is not intended as a modding tutorial.
 
-This branch is for Minecraft version 1.10.2. Please see the other branches for templates for other Minecraft versions.
+This branch is for Minecraft version 1.11.2. Please see the other branches for templates for other Minecraft versions.
 
 ## Development
 
